@@ -1,0 +1,17 @@
+{
+    "id": "NL_Intercity_VIRM6",
+    "mass": 391000.0,
+    "rho": 1.06,
+    "max traction power": 2157000.0,
+    "max reg power": 3616000.0,
+    "max traction force": 213900.0,
+    "max reg braking force": 142500.0,
+    "max pn braking force": 273500.0,
+    "max acceleration": null,
+    "max deceleration": 0.66,
+    "max speed": 140,
+    "min speed reg braking": 8,
+    "rolling resistance r0": 5854.0,
+    "rolling resistance r1": 74.16,
+    "rolling resistance r2": 12.96
+}
